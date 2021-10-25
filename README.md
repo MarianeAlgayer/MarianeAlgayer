@@ -1,6 +1,7 @@
 Hi there (👋) I'm Mariane.
 
-I'm switching from architecture industry (👷‍♀️) into technology (👩‍💻).
+I'm switching from architecture industry (👷‍♀️) into technology (👩‍💻); Currently a student at [Trybe](https://github.com/betrybe), learning JavaScript, HTML and CSS.
+
 
 Powered by coffee (☕), motivated by learning new things (🧠) and a baking enthusiast (🍰).
 
