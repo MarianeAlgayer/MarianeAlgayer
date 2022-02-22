@@ -1,6 +1,6 @@
 Hi there (👋) I'm Mariane.
 
-I'm switching from architecture industry (👷‍♀️) into technology (👩‍💻); Currently a student at [Trybe](https://www.betrybe.com/) (:rocket:), learning JavaScript, HTML and CSS.
+I'm switching from architecture industry (👷‍♀️) into technology (👩‍💻); Currently a student at [Trybe](https://www.betrybe.com/) (🚀) learning React (<img src="./react.png" alt="React Logo" width="12px">).
 
 Powered by coffee (☕), motivated by learning new things (🧠) and a baking enthusiast (🍰).
 
