@@ -6,7 +6,7 @@
 
 - 📄 See my [résumé](https://gitconnected.com/marianealgayer/resume) to get more info;
 
-- ⚡ Fun fact: I also have a degree in Architecture and Urban Planning.
+- ⚡ Fun fact: I also have a degree in Architecture and Urban Planning 👷🏻‍♀️.
 
 <br>
 
