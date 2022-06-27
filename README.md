@@ -2,9 +2,9 @@
 
 - 🌱 I'm currently a student at [Trybe](https://www.betrybe.com/) learning technologies related to JavaScript;
 
-- 👩🏻‍💻 My projects are available at [https://marianealgayer.github.io/](https://marianealgayer.github.io/);
+- 👩🏻‍💻 My projects are available in my [portfolio](https://marianealgayer.github.io/);
 
-- 📄 See my [Curriculum Vitae](https://gitconnected.com/marianealgayer/resume) to get more info;
+- 📄 See my [résumé](https://gitconnected.com/marianealgayer/resume) to get more info;
 
 - ⚡ Fun fact: I also have a degree in Architecture and Urban Planning.
 
