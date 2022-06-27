@@ -1,7 +1,4 @@
-### Hi there 👋 I'm Mariane, 
-### a Software Development student based in Florianópolis, Brazil 🌴.
-
-<br>
+### Hi there 👋 I'm Mariane, a Software Development student based in Florianópolis, Brazil 🌴.
 
 - 🌱 I'm currently a student at [Trybe](https://www.betrybe.com/) learning technologies related to JavaScript;
 
@@ -14,8 +11,6 @@
 <br>
 
 **Languages and Tools:**
-
-<br>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/>
@@ -34,10 +29,8 @@
 
 **Get in touch:**
 
-<br>
-
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=whitelink=https://www.linkedin.com/in/mariane-albuquerque-algayer/)
-![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:marianealgayer@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariane-albuquerque-algayer/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianealgayer@gmail.com)
 
 <br>
 
