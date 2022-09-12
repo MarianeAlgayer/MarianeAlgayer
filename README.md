@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Mariane, a Software Development student based in Florianópolis, Brazil 🌴.
+### Hi there 👋 I'm Mariane, a Software Engineer based in Florianópolis, Brazil 🌴.
 
-- 🌱 I'm currently a student at [Trybe](https://www.betrybe.com/) learning technologies related to JavaScript;
+- 🌱 I'm currently learning C#;
 
 - 👩🏻‍💻 My projects are available in my [portfolio](https://marianealgayer.github.io/);
 
