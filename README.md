@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mariane, a Software Engineer based in Florianópolis, Brazil 🏝.
 
-- 🌱 I'm currently learning C#;
+- 🌱 I'm currently learning Java;
 
 - 👩🏻‍💻 My projects are available in my [portfolio](https://marianealgayer.github.io/);
 
